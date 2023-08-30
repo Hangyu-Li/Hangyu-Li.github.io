@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hangyu Li"
   avatar           : "hangyu.png"
-  bio              : "Ph.D. student at UW-Madison, working with Dr. Xiaopeng Li on connected and automated vehicles"
+  bio              : "Ph.D. student at UW-Madison"
   location         : "Madison, Wisconsin, United States"
-  employer         : "https://catslab.wiscweb.wisc.edu"
+  employer         : # "https://catslab.wiscweb.wisc.edu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "hangyu.li@wisc.edu"
