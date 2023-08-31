@@ -10,7 +10,7 @@ citation: "Wen, T., Jiang, K., Wijaya, B., Li, H., Yang, M., & Yang, D. (2022). 
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://hangyu-li.github.io/files/TITS2022-TM3Loc.pdf)
+[Download paper here](https://hangyu-li.github.io/files/TITS2022-TM3Loc.pdf)
 
 \[Bibtex\]  
 @article{wen2022tm,  

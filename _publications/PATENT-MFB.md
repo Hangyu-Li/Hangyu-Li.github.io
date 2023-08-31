@@ -10,6 +10,6 @@ citation: "Hangyu Li, Yintao Wei, Zhiqian Lan, Chao Hou, Mingjie Chen, Yi Gao. A
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Patent certificate here](http://hangyu-li.github.io/files/PATENT-MFB.pdf)
+[See patent certificate here](https://hangyu-li.github.io/files/PATENT-MFB.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
