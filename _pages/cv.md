@@ -9,32 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Pursuing a Ph.D. degree in Civil Engineering at University of Wisconsin-Madison
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Vehicle Engineering, 2021
+  * Tsinghua University
+  * Beijing, China
+* M.Phil. in Intelligent Transportation, 2023
+  * Hong Kong University of Science and Technology
+  * Hong Kong SAR
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2023 - Now: Research Assistant
+  * University of Wisconsin-Madison, Civil and Environmental Engineering Department
+  * Supervisor: Prof. Xiaopeng Li
 
 Publications
 ======
@@ -48,12 +38,34 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* \[2021.12\] Hong Kong Huawei ICT Competition Third Prize
+* \[2021.06\] Outstanding Thesis Award, SVM, Tsinghua University
+* \[2020.11\] CMCC National 5G+ Application Innovation Competition Rank #2
+* \[2018.06\] Tsinghua University Future Intelligence Transportation Competition Second Prize
+* \[2018.01\] Tsinghua University “XinDong Project” Intelligent Car Competition Best in Class Award
+
+Skills
+======
+* Fluent coding languages:
+  * C++
+  * Python
+  * MATLAB
+  * JavaScript
+* Familiar development environments:
+  * ROS
+  * Carla
+  * SUMO
+  
+Services
+======
+* Review for 
+  * *IEEE Transactions on Intelligent Transportation Systems*
+  * *Transportation Research Board Annual Meeting*
