@@ -23,7 +23,7 @@ Education
 Employment
 ======
 * Aug 2023 - Now: Research Assistant
-  * University of Wisconsin-Madison, Civil and Environmental Engineering Department
+  * Civil and Environmental Engineering Department, University of Wisconsin-Madison
   * Supervisor: Prof. Xiaopeng Li
 
 Publications
@@ -46,11 +46,11 @@ Talks
 
 Awards
 ======
-* \[2021.12\] Hong Kong Huawei ICT Competition Third Prize
-* \[2021.06\] Outstanding Thesis Award, SVM, Tsinghua University
-* \[2020.11\] CMCC National 5G+ Application Innovation Competition Rank #2
-* \[2018.06\] Tsinghua University Future Intelligence Transportation Competition Second Prize
-* \[2018.01\] Tsinghua University “XinDong Project” Intelligent Car Competition Best in Class Award
+* \[2021.12\]   Hong Kong Huawei ICT Competition Third Prize
+* \[2021.06\]   Outstanding Thesis Award, SVM, Tsinghua University
+* \[2020.11\]   CMCC National 5G+ Application Innovation Competition Rank #2
+* \[2018.06\]   Tsinghua University Future Intelligence Transportation Competition Second Prize
+* \[2018.01\]   Tsinghua University “XinDong Project” Intelligent Car Competition Best in Class Award
 
 Skills
 ======
