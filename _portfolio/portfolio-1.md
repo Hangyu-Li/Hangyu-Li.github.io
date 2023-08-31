@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Soccer"
+excerpt: "I play forward, in center or at wings. I am a fan of Messi, but my style is more like Harry Kane's.<br/><img src='/images/soccer.JPG'>"
 collection: portfolio
 ---
 
