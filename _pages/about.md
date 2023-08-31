@@ -10,7 +10,7 @@ redirect_from:
 
 ![Hangyu](/images/about.png)
 
-![Hangyu](/images/about_L.png)
+![Hangyu](/images/about_L.JPG)
 
 I am currently a Ph.D. student at [University of Wisconsin-Madison](https://www.wisc.edu), working with [Dr. Xiaopeng Li](https://directory.engr.wisc.edu/cee/Faculty/Li_Xiaopeng/). I got my undergraduate education in Vehicle Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a Master of Philosophy degree in Intelligent Transportion at [The Hong Kong University of Science and Technology](https://hkust.edu.hk). My research interests include perception and localization of autonomous driving, and modeling and validation of connected and automated vehicles in intelligent transportation systems. You can refer to our lab webpage for more information at [here](https://catslab.wiscweb.wisc.edu), or you can email me at any time.
 
