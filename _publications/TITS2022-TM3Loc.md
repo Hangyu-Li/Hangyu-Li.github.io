@@ -1,5 +1,5 @@
 ---
-title: "TM^3Loc: Tightly-coupled Monocular Map Matching for High Precision Vehicle Localization"
+title: "TM3Loc: Tightly-coupled Monocular Map Matching for High Precision Vehicle Localization"
 collection: publications
 permalink: /publication/TITS2022-TM3Loc
 excerpt:
@@ -14,7 +14,7 @@ citation: 'Wen, T., Jiang, K., Wijaya, B., **Li, H.**, Yang, M., & Yang, D. (202
 
 \[Bibtex\]
 @article{wen2022tm,
-  title={TM^3Loc: Tightly-coupled monocular map matching for high precision vehicle localization},
+  title={TM3Loc: Tightly-coupled monocular map matching for high precision vehicle localization},
   author={Wen, Tuopu and Jiang, Kun and Wijaya, Benny and Li, Hangyu and Yang, Mengmeng and Yang, Diange},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   volume={23},
