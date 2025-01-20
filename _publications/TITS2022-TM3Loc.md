@@ -1,5 +1,5 @@
 ---
-title: "TM3Loc: Tightly-coupled Monocular Map Matching for High Precision Vehicle Localization"
+title: "TM3Loc: Tightly-Coupled Monocular Map Matching for High Precision Vehicle Localization"
 collection: publications
 permalink: /publication/TITS2022-TM3Loc
 excerpt:
