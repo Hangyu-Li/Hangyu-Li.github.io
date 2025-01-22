@@ -14,10 +14,10 @@ citation: "Meng, Y., Li, H., Ornik, M., & Li, X. (2024). Koopman-Based Data-Driv
 
 \[Bibtex\]  
 @inproceedings{meng2024koopman,
-  title={Koopman-Based Data-Driven Techniques for Adaptive Cruise Control System Identification},
-  author={Meng, Yiming and Li, Hangyu and Ornik, Melkior and Li, Xiaopeng},
-  booktitle={27th IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE},
-  year={2024}
+&emsp;title={Koopman-Based Data-Driven Techniques for Adaptive Cruise Control System Identification},
+&emsp;author={Meng, Yiming and Li, Hangyu and Ornik, Melkior and Li, Xiaopeng},
+&emsp;booktitle={27th IEEE International Conference on Intelligent Transportation Systems (ITSC), IEEE},
+&emsp;year={2024}
 }
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
