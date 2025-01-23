@@ -56,7 +56,7 @@ Services
   * *IEEE Intelligent Vehicles Symposium*
   * *Transportation Research Board Annual Meeting*
 * Organizer of 
-  * Invited Session at IEEE ITSC 2024
+  * Invited Session at *IEEE ITSC 2024*
 
 <!-- Awards
 ======

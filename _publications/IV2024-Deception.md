@@ -13,13 +13,14 @@ citation: "Li, H., Huang, H., Sun, X., & Li, X. (2024, June). Deception for Adva
 [Download paper here](https://hangyu-li.github.io/files/IV2024-Deception.pdf)
 
 \[Bibtex\]  
+```bibtex
 @inproceedings{li2024deception,
-&emsp;title={Deception for Advantage in Connected and Automated Vehicle Decision-Making Games},
-&emsp;author={Li, Hangyu and Huang, Heye and Sun, Xiaotong and Li, Xiaopeng},
-&emsp;booktitle={2024 IEEE Intelligent Vehicles Symposium (IV)},
-&emsp;pages={2234--2241},
-&emsp;year={2024},
-&emsp;organization={IEEE}
+    title={Deception for Advantage in Connected and Automated Vehicle Decision-Making Games},
+    author={Li, Hangyu and Huang, Heye and Sun, Xiaotong and Li, Xiaopeng},
+    booktitle={2024 IEEE Intelligent Vehicles Symposium (IV)},
+    pages={2234--2241},
+    year={2024},
+    organization={IEEE}
 }
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
