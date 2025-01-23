@@ -1,6 +1,6 @@
 ---
 title: "Soccer"
-excerpt: "I play as a forward, in center or at wings. I am a fan of Messi, but my style is more like Harry Kane's.<br/><br/><img src='/images/soccer.JPG'>"
+excerpt: "I play as a forward, in the center, or the wings. Barcelona, Messi, but respect any team and player that strives to their limit.<br/><br/><img src='/images/soccer.JPG'>"
 collection: portfolio
 ---
 
