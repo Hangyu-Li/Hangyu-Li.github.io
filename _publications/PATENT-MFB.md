@@ -6,7 +6,7 @@ excerpt:
 date: 2020-11-03
 venue: "Chinese Patent"
 paperurl: "https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202002&filename=CN211852580U&uniplatform=OVERSEA&v=zlHjkx9KbSbshqVoUNNw9ix3Q0CNEb-Ge5SuBEkxrh6li2ZL5YqfSrkmEwrqY5wQ"
-citation: "Hangyu Li, Yintao Wei, Zhiqian Lan, Chao Hou, Mingjie Chen, Yi Gao. A multi-coil magnetorheological fluid brake for vehicles, 2020. Chinese Patent CN211852580U."
+citation: "Li, H., Wei, Y., Lan Z., Hou C., Chen M., & Gao Y. (2020). A multi-coil magnetorheological fluid brake for vehicles. Chinese Patent CN211852580U."
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
