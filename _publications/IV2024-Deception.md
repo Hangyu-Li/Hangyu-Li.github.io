@@ -12,8 +12,7 @@ citation: "Li, H., Huang, H., Sun, X., & Li, X. (2024, June). Deception for Adva
 
 [Download paper here](https://hangyu-li.github.io/files/IV2024-Deception.pdf)
 
-\[Bibtex\]  
-```md
+\[Bibtex\]
 <pre>
 @inproceedings{li2024deception,
     title={Deception for Advantage in Connected and Automated Vehicle Decision-Making Games},
