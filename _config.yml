@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hangyu Li Homepage"
+title                    : "Hangyu's Homepage"
 title_separator          : "-"
 name                     : &name "Hangyu Li"
 description              : &description "Ph.D. student at UW-Madison"
@@ -83,12 +83,12 @@ author:
   name             : "Hangyu Li"
   avatar           : "hangyu.png"
   bio              : "Ph.D. student at UW-Madison"
-  location         : "Madison, WI, United States"
+  location         : "Madison, WI, USA"
   employer         : # "https://catslab.wiscweb.wisc.edu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JlWMTWMAAAAJ"
   email            : "hangyu.li@wisc.edu"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hangyu-Li-15"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "https://github.com/Hangyu-Li"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hangyu-li-218987179/"
   orcid            : "http://orcid.org/0000-0002-8667-9928"
   pinterest        :
   soundcloud       :
