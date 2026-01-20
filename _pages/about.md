@@ -10,7 +10,9 @@ redirect_from:
 
 ![Hangyu](/images/portrait.jpg)
 
-I am currently a Ph.D. student at [University of Wisconsin-Madison](https://www.wisc.edu), working with [Dr. Xiaopeng Li](https://directory.engr.wisc.edu/cee/Faculty/Li_Xiaopeng/). I got my undergraduate education (B.Eng.) in Vehicle Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a Master of Philosophy (M.Phil.) degree in Intelligent Transportion at [The Hong Kong University of Science and Technology](https://hkust.edu.hk). My research interests include perception and localizaiton, connected vehicle automation, and modeling and evaluation of automated vehicles. Please refer to our lab webpage for more information at [here](https://catslab.engr.wisc.edu), or you can email me at any time.
+I am currently a Ph.D. student at [University of Wisconsin-Madison](https://www.wisc.edu), working with [Dr. Xiaopeng Li](https://directory.engr.wisc.edu/cee/Faculty/Li_Xiaopeng/). I got my undergraduate education (B.Eng.) in Vehicle Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a Master of Philosophy (M.Phil.) degree in Intelligent Transportation at [Hong Kong University of Science and Technology](https://hkust.edu.hk). My research interests include perception, cooperation, and evaluation of connected and autonomous vehicles in intelligent transportation systems. For more related work, please refer to our [laboratory homepage](https://catslab.engr.wisc.edu).
+
+This site was last updated on Jan 20, 2026. Anything newer is not reflected.
 
 <!-- Getting started
 ======
