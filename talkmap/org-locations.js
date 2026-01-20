@@ -5,12 +5,17 @@ var addressPoints = [
     -77.0365427
   ],
   [
-    "Jeju Island, Korea",
-    33.38034745,
-    126.54825445912047
+    "Madison, WI, United States",
+    43.07469,
+    -89.3841663
   ],
   [
-    "Xi'an, Shaanxi, China",
+    "Jeju Island, Korea",
+    33.3803475,
+    126.5482545
+  ],
+  [
+    "Xi'an, China",
     34.261004,
     108.9423363
   ]
