@@ -12,8 +12,8 @@ citation: "Wen, T., Jiang, K., Wijaya, B., Li, H., Yang, M., & Yang, D. (2022). 
 
 [Download paper here](https://hangyu-li.github.io/files/TITS2022-TM3Loc.pdf)
 
-\[Bibtex\]  
-<pre>
+
+*Bibtex*<pre>
 @article{wen2022tm,
     title={TM3Loc: Tightly-coupled monocular map matching for high precision vehicle localization},
     author={Wen, Tuopu and Jiang, Kun and Wijaya, Benny and Li, Hangyu and Yang, Mengmeng and Yang, Diange},
