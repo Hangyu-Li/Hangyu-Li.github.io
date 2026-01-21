@@ -5,7 +5,7 @@ permalink: /publication/TITS2022-TM3Loc
 excerpt:
 date: 2022-05-30
 venue: "IEEE Transactions on Intelligent Transportation Systems"
-paperurl: "https://ieeexplore.ieee.org/abstract/document/9784872"
+paperurl: "https://ieeexplore.ieee.org/document/9784872"
 citation: "Wen, T., Jiang, K., Wijaya, B., Li, H., Yang, M., & Yang, D. (2022). TM3Loc: Tightly-coupled monocular map matching for high precision vehicle localization. IEEE Transactions on Intelligent Transportation Systems, 23(11), 20268-20281."
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
