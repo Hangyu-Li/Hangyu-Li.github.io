@@ -15,16 +15,16 @@ Education
 ======
 * B.Eng. in Vehicle Engineering, 2021
   * Tsinghua University
-  * Beijing, China
+  * *Beijing, China*
 * M.Phil. in Intelligent Transportation, 2023
   * Hong Kong University of Science and Technology
-  * Hong Kong SAR
+  * *Hong Kong SAR*
 
 Employment
 ======
 * Aug 2023 - Present: Research Assistant
   * Department of Civil and Environmental Engineering, University of Wisconsin-Madison
-  * Supervisor: Prof. Xiaopeng Li
+  * Supervisor: *Prof. Xiaopeng Li*
 
 Publications
 ======
@@ -46,16 +46,20 @@ Teaching
 
 Services
 ======
-* Review for 
+* **Review for** 
   * *IEEE Transactions on Intelligent Transportation Systems*
   * *Transportation Research Part C: Emerging Technologies*
   * *IEEE Transactions on Emerging Topics in Computing*
   * *IEEE Intelligent Transportation Systems Magazine*
+  * *Transportation Research Record*
+  * *Scientific Data*
+  * *Cluster Computing*
+  * *Journal of Systems and Software*
   * *Cleaner Logistics and Supply Chain*
   * *Journal of Urban Planning and Development*
   * *IEEE Intelligent Vehicles Symposium*
   * *Transportation Research Board Annual Meeting*
-* Organizer of 
+* **Organizer of** 
   * Invited Session at *IEEE ITSC 2024*
 
 <!-- Awards
@@ -72,6 +76,7 @@ Skills
   * C++
   * Python
   * MATLAB
+  * *Vibe coding*😄
 * Familiar development environments:
   * ROS
   * Autoware
